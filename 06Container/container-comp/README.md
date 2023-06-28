@@ -1,0 +1,1 @@
+We separate the data fetching logic from the presentational logic with the Container Component pattern. We create as many dumb presentational components as required and pass data to them.

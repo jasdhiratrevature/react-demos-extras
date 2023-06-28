@@ -1,0 +1,22 @@
+.FancyBorder {
+  border: 10px solid;
+  border-radius:30%;
+  border-color:purple;
+  text-align:center;
+  font-family: 'Rancho', cursive;
+}
+
+.FancyBorder-purple {
+  border-color: purple;
+}
+
+.Dialog-title {
+  font-size:60px;
+  transform: translate(0,70px);
+}
+
+.Dialog-message {
+  padding: 0px 0px;
+  margin: 10px;
+  font-size: 40px;
+}
